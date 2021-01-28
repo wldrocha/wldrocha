@@ -1,4 +1,4 @@
-## Hi guys👋 my name is Wladimir Rocha
+## Hi guy👋 my name is Wladimir Rocha, nice to meet you!
 
 ### Passionate about technology and constantly learning
 
@@ -21,6 +21,7 @@
 
 
 <br>
+---
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
