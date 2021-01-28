@@ -3,11 +3,11 @@
 ### Passionate about technology and constantly learning
 
 ---
-#####- 👷🏽‍♂️ I’m currently workink  on ⚖ Equilibrio Agency
+##### - 👷🏽‍♂️ I’m currently workink  on ⚖ Equilibrio Agency
 
-#####- 🌱 I’m currently learning more web development 🤓 and android 📱
+##### - 🌱 I’m currently learning more web development 🤓 and android 📱
 ---
-###Code 🚀
+### Code 🚀
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
