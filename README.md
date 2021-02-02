@@ -3,7 +3,7 @@
 ### Passionate about technology and constantly learning
 
 ---
-n##### - 👷🏽‍♂️ I’m currently frontend developer om ⚖ Equilibrio Agency
+n##### - 👷🏽‍♂️ I’m frontend developer om ⚖ Equilibrio Agency
 
 ##### - 🌱 I’m currently learning more web development 🤓 and android 📱
 ---
