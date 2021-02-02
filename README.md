@@ -3,7 +3,7 @@
 ### Passionate about technology and constantly learning
 
 ---
-##### - 👷🏽‍♂️ I’m currently workink  on ⚖ Equilibrio Agency
+n##### - 👷🏽‍♂️ I’m currently frontend developer om ⚖ Equilibrio Agency
 
 ##### - 🌱 I’m currently learning more web development 🤓 and android 📱
 ---
@@ -21,13 +21,13 @@
 
 
 <br>
----
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<br>
 <br>
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231da1f2&label=wldrocha&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fwldrocha)](https://twitter.com/wldrocha)   [![Twitter URL](https://img.shields.io/twitter/url?label=wldrocha&logo=linkedin&logoColor=%230e76a8&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwladimir-rocha-02494512a%2F)](https://www.linkedin.com/in/wladimir-rocha-02494512a/)
