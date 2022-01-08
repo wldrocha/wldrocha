@@ -5,7 +5,7 @@
 ---
 ##### - 👷🏽‍♂️ I’m frontend developer on 🚑 🏥 Venemergencias
 
-##### - 🌱 I’m currently learning more web development 🤓 and android 📱
+##### - 🌱 I’m currently learning more web development 🤓
 ---
 ### Code 🚀
 
