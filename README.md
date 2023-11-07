@@ -12,7 +12,7 @@ Mi meta a largo plazo es desarrollarme como líder y arquitecto de soluciones, p
 
 Si estás en búsqueda de un profesional detallista, con habilidades sólidas y una amplia versatilidad tecnológica, incluyendo un enfoque en marcos JS como Vue y React, ¡no dudes en conectarte!
 
-### Mis habilidades en código 🚀
+### My code skills 🚀
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
@@ -22,6 +22,7 @@ Si estás en búsqueda de un profesional detallista, con habilidades sólidas y 
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
 ### Conéctate conmigo: 
+
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231da1f2&label=wldrocha&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fwldrocha)](https://twitter.com/wldrocha)
 [![LinkedIn URL](https://img.shields.io/twitter/url?label=wldrocha&logo=linkedin&logoColor=%230e76a8&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwladimir-rocha-02494512a%2F)](https://www.linkedin.com/in/wladimir-rocha-02494512a/)
